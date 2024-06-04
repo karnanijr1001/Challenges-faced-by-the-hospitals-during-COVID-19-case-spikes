@@ -3,7 +3,8 @@
  ### [Project Fles](https://github.com/karnanijr1001/Challenges-faced-by-the-hospitals-during-COVID-19-case-spikes)
 
 <h2>Description</h2>
-The COVID-19 pandemic is requiring all degrees of government to act in a setting of incredible vulnerability and under weighty financial, monetary, and prevailing burden. With the beginning of new floods of contamination in numerous nations since mid-2020 and the rise of variations, legislatures are faced to the restricted capacity to succession strategy activity.<br />
+<h2>Description</h2>
+Project consists of a simple linear regression in Excel and helps the user to learn how the hospitals were affected during the COVID-19 Pandemic.<br />
 
 
 <h2>Languages and Utilities Used</h2>
