@@ -1,7 +1,6 @@
 <h1>Challenges faced by the hospitals during COVID-19 case spikes</h1>
 
 <h2>Description</h2>
-<h2>Description</h2>
 Project consists of a simple linear regression in Excel and helps the user to learn how the hospitals were affected during the COVID-19 Pandemic.<br />
 
 
